@@ -1,4 +1,4 @@
-Device Tree for Samsung Galaxy Tab S2 8.0 (gts28vewifi)
+Device Tree for Samsung Galaxy Tab S2 8.0 LTE (gts28vewifi)
 ===========================================
 
 Basic   | Spec Sheet
