@@ -14,6 +14,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-samsung
 # Use the latest approved GMS identifiers
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=gts28veltexx \
-    PRIVATE_BUILD_DESC="gts28veltexx-user 7.0 NRD90M T719XXU2BQI1 release-keys"
+    PRIVATE_BUILD_DESC="gts28veltexx-user 7.0 NRD90M T719XXU2BRB2 release-keys"
 
-BUILD_FINGERPRINT := "samsung/gts28veltexx/gts28velte:7.0/NRD90M/T719XXU2BQI1:user/release-keys"
+BUILD_FINGERPRINT := "samsung/gts28veltexx/gts28velte:7.0/NRD90M/T719XXU2BRB2:user/release-keys"
